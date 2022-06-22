@@ -41,5 +41,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Dont env
 gem 'dotenv-rails'
-gem 'devise'
-gem 'devise-jwt'
+# gem 'devise'
+# gem 'devise-jwt'
